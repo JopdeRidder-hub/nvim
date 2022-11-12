@@ -14,3 +14,5 @@ require("jop.plugins.lsp.null-ls")
 require("jop.plugins.autopairs")
 require("jop.plugins.treesitter")
 require("jop.plugins.gitsigns")
+
+vim.g.python3_host_prog = "/Users/jopderidder/.config/nvim/venv/bin/python3"

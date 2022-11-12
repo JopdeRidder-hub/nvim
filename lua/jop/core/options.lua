@@ -13,6 +13,9 @@ opt.autoindent = true
 -- line wrapping
 opt.wrap = false
 
+-- cursor line
+opt.cursorline = true -- highlight the current cursor line
+
 -- search settings
 opt.ignorecase = true
 opt.smartcase = true
